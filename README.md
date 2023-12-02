@@ -1,12 +1,11 @@
 # Resume-Parsing
 
-# pyresparser
 
 ```
-A simple resume parser used for extracting information from resumes
+A resume parser used for extracting information from resumes
 ```
 
-Built with ❤︎ and :coffee: by  [Omkar Pathak](https://github.com/OmkarPathak)
+Built with ❤︎ and :coffee: by  [Om Shankar Thakur](https://github.com/Om-Shankar-Thakur)
 
 ---
 
