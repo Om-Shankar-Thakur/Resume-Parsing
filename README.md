@@ -47,10 +47,6 @@ python -m nltk.downloader words
 python -m nltk.downloader stopwords
 ```
 
-# Documentation
-
-Official documentation is available at: https://www.omkarpathak.in/pyresparser/
-
 # Supported File Formats
 
 - PDF and DOCx files are supported on all Operating Systems
@@ -107,9 +103,9 @@ The module would return a list of dictionary objects with result as follows:
     'designation': ['Manager',
                     'TECHNICAL CONTENT WRITER',
                     'DATA ENGINEER'],
-    'email': 'omkarpathak27@gmail.com',
-    'mobile_number': '8087996634',
-    'name': 'Omkar Pathak',
+    'email': 'omshankar466@gmail.com',
+    'mobile_number': '7903301466',
+    'name': 'Om Shankar Thakur',
     'no_of_pages': 3,
     'skills': ['Operating systems',
               'Linux',
@@ -140,13 +136,6 @@ The module would return a list of dictionary objects with result as follows:
 
 - **Special thanks** to dataturks for their [annotated dataset](https://dataturks.com/blog/named-entity-recognition-in-resumes.php)
 
-# Donation
-
-If you have found my softwares to be of any use to you, do consider helping me pay my internet bills. This would encourage me to create many such softwares :smile:
-
-| PayPal | <a href="https://paypal.me/omkarpathak27" target="_blank"><img src="https://www.paypalobjects.com/webstatic/mktg/logo/AM_mc_vs_dc_ae.jpg" alt="Donate via PayPal!" title="Donate via PayPal!" /></a> |
-|:-------------------------------------------:|:-------------------------------------------------------------:|
-| ₹ (INR)  | <a href="https://www.instamojo.com/@omkarpathak/" target="_blank"><img src="https://www.soldermall.com/images/pic-online-payment.jpg" alt="Donate via Instamojo" title="Donate via instamojo" /></a> |
 
 # Stargazer over time
 [![Stargazers over time](https://starchart.cc/OmkarPathak/pyresparser.svg)](https://starchart.cc/OmkarPathak/pyresparser)
